@@ -1,0 +1,19 @@
+Perl:
+1.
+Suche Name
+2.
+Gib Position aus
+3.
+Suche großgeschriebene Wörter
+3.a.
+Wenn schon gefunden neue Position anfügen (vielleicht mit Eigenschaft dann Eigenschaft setzen)
+3.b
+sonst neues Wort mit Position(Int) und Eigenschaft(T/F)
+4.
+Schreibe Ergebniss in File mit fortlaufender Nummer
+
+R:
+Distanz: Wieviele Wörter sind gleich -> Clustern
+
+Möglich: Häufigste Wörter rausnehmen
+
